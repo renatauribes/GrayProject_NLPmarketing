@@ -8,7 +8,7 @@ Wordclouds: This file contains code for generating word clouds to visualize the 
 
 Cleaning: The cleaning folder includes scripts and functions for data cleaning and preprocessing. It covers tasks such as removing stopwords, lemmatization, and handling with special characters.
 
-Models: This folder contains the code for training and evaluating the classification models. It includes scripts for feature extraction, model training, hyperparameter tuning, and model evaluation with cross validation. Different models, such as K nearest neighbor, Decision Tree, and SVC, are implemented.
+Models: This file contains the code for training and evaluating the classification models. It includes scripts for feature extraction, model training, hyperparameter tuning, and model evaluation with cross validation. Different models, such as K nearest neighbor, Decision Tree, and SVC, are implemented.
 
-Topological Data Analysis: This folder includes code for performing topological data analysis on the marketing program data. It explores the relationships and patterns in the data using techniques like persistent homology and Mapper algorithm.
+Topological Data Analysis: This file includes code for performing topological data analysis on the marketing program data. It explores the relationships and patterns in the data using techniques like persistent homology and Mapper algorithm.
 
