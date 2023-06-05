@@ -6,7 +6,7 @@ Data Understanding: This file contains scripts and notebooks for data exploratio
 
 Wordclouds: This file contains code for generating word clouds to visualize the most frequent words in different program categories. It uses the cleaned and tokenized data to create word clouds for each category.
 
-Cleaning: The cleaning folder includes scripts and functions for data cleaning and preprocessing. It covers tasks such as removing stopwords, lemmatization, and handling with special characters.
+Cleaning: The cleaning file includes scripts and functions for data cleaning and preprocessing. It covers tasks such as removing stopwords, lemmatization, and handling with special characters.
 
 Models: This file contains the code for training and evaluating the classification models. It includes scripts for feature extraction, model training, hyperparameter tuning, and model evaluation with cross validation. Different models, such as K nearest neighbor, Decision Tree, and SVC, are implemented.
 
